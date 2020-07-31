@@ -22,13 +22,13 @@ I'm a graduate software developer at DCSL
 
 ## 🎯 2020 Goals
 
-- Do more Charity Work 😇
+😇 Do more Charity Work 
 
-- Improve my C# and JavaScript skills 🧠
+🧠 Improve my C# and JavaScript skills 
 
-- Get back to the gym 🏋️‍♂️
+🏋️‍♂️ Get back to the gym 
 
-- Write more blog posts ✍️
+✍️ Write more blog posts 
 
 ## 📈 My GitHub Statistics
 
