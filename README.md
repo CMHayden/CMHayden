@@ -13,6 +13,7 @@ I'm a graduate software developer at DCSL
 ## 📓 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AKAL — Alzheimer’s Calendar](https://medium.com/@haydencallum4/akal-alzheimers-calendar-34cbadfb9d35?source=rss-497c404160a1------2)
 - [My Journey as a Computing Student](https://medium.com/@haydencallum4/my-journey-as-a-computing-student-e17bb9ea9598?source=rss-497c404160a1------2)
 <!-- BLOG-POST-LIST:END -->
 
