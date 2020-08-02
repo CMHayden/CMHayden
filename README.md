@@ -6,6 +6,8 @@
 
 📍 Current location: London
 
+<!--START_SECTION:activity-->
+
 ### 📚 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
