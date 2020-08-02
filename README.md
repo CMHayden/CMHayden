@@ -9,6 +9,12 @@
 ⚡ Recent activity:
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com//CMHayden/akal.app/pull/3) in [CMHayden/akal.app](https://github.com//CMHayden/akal.app)
+2. 🎉 Merged PR [#2](https://github.com//CMHayden/akal.app/pull/2) in [CMHayden/akal.app](https://github.com//CMHayden/akal.app)
+3. 🗣 Commented on [#2080](https://github.com//education/graduation/issues/2080) in [education/graduation](https://github.com//education/graduation)
+4. 🗣 Commented on [#2080](https://github.com//education/graduation/issues/2080) in [education/graduation](https://github.com//education/graduation)
+5. 💪 Opened PR [#2080](https://github.com//education/graduation/pull/2080) in [education/graduation](https://github.com//education/graduation)
+<!--END_SECTION:activity-->
 
 ### 📚 My Latest Blog Posts
 
