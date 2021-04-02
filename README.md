@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Callum
 
-💼 Graduate software developer @ DCSL
+💼 Junior software developer @ DCSL
 
 🎓 Bachelors of Science in Computer Systems with Honours of the First Class from Heriot Watt.
 
